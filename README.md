@@ -36,7 +36,7 @@ No meu caso aceitei todos os termos: **Y**
 
 #Para entrar no MariaDB:
 
-``mysql -u root -p``
+``$ mysql -u root -p``
 
 
 
